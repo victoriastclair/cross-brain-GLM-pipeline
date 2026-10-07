@@ -14,7 +14,7 @@ _Software_
 _Toolboxes/Functions_
 
   - Homer2 Toolbox (https://homer-fnirs.org/download/), used for preprocessing the raw fNIRS data into the _ppr.mat files read by this pipeline. Huppert, T. J., Diamond, S. G., Franceschini, M. A., & Boas, D. A. (2009). HomER: A review of time-series analysis methods for near-infrared spectroscopy of the brain. Applied Optics, 48(10), D280–D298. https://doi.org/10.1364/ao.48.00d280
-  - SPM8 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/), used for the canonical haemodynamic response function (spm_hrf). Penny, W. D., Friston, K. J., Ashburner, J. T., Kiebel, S. J., & Nichols, T. E. (Eds.). (2011). Statistical parametric mapping: The analysis of functional brain images. Elsevier.
+  - SPM8 (https://www.fil.ion.ucl.ac.uk/spm/software/spm8/), used for the canonical haemodynamic response function (spm_hrf). Penny, W. D., Friston, K. J., Ashburner, J. T., Kiebel, S. J., & Nichols, T. E. (Eds.). (2011). Statistical parametric mapping: The analysis of functional brain images. Elsevier.
   - Short-separation regression functions: Abdalmalak, A. et al. (2022). Effects of systemic physiology on mapping resting-state networks using functional near-infrared spectroscopy. Frontiers in Neuroscience, 16, 803297. https://doi.org/10.3389/fnins.2022.803297. Questions about these functions ('AdjustTemporalShift_fnirs_course.m' and 'PhysiologyRegression_GLM_fnirs_course.m') should be directed to the original authors: Professor Rickson Mesquita (r.c.mesquita@bham.ac.uk) and Dr Sergio Luiz Novi Jr (novisl@ifi.unicamp.br).
 
 **Example data**

@@ -1,5 +1,4 @@
-# cross-brain-GLM-pipeline
-Scripts for main analysis presented in St Clair et al. (under review)
+# cross-brain GLM pipeline
 
 Code repository for St Clair et al., (under review). Modelling children's brain activity in context: A cross-brain GLM approach to parent-child fNIRS hyperscanning. Oxford Open Neuroscience.
 

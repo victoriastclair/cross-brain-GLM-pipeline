@@ -1,0 +1,11 @@
+cns		100.000	220.000
+cns_pointing		104.250	106.100
+cns_handing		131.500	133.020
+cns_demonstrating		160.800	166.400
+cns_correcting		190.120	193.900
+cws		325.000	445.000
+cws_pointing		331.700	333.050
+cws_positioning		360.400	364.880
+cws_correcting		402.300	404.150
+mom_in_frame		100.500	210.000
+mutual_gaze		140.200	141.600
